@@ -6,7 +6,9 @@ L’objectif de ce projet est de reproduire un mini-jeu qui se nomme « Space In
 II – Glossaire
 
 •	Vaisseau : véhicule commandé par le joueur, pouvant se déplacer de droite à gauche et ayant la possibilité de lancer des missiles destinés à détruire le(s) envahisseurs.
+
 •	Envahisseur : ennemi qui apparaît à l'écran, se déplace automatiquement et qui doit être détruit par un missile lancé depuis le vaisseau du joueur.
+
 •	Missile : projectile envoyé à la verticale par le vaisseau vers l'envahisseur dans le but de le détruire
 
 
@@ -21,9 +23,12 @@ Cette semaine, j’ai développé les deux premières stories de la première fo
 1.	Fonctionnalité n°1 : Déplacer le vaisseau dans l’espace jeu
 
 Dans la première stories « Création d’un espace jeu », il n’y a qu’un seul critère d’acceptance : un espace de jeu vide aux dimensions données (2D). Puis dans la deuxième stories « Positionnement du vaisseau dans l’espace jeu », il y a deux critères d’acceptance : Un nouveau vaisseau est créé et le vaisseau est positionné aux coordonnées transmises. On peut ajouter à ces critères d’acceptance des contraintes, en effet, par exemple, on considère que le coin supérieur gauche de l'espace jeu (point en haut à gauche) a pour coordonnées (0,0). 
+
 IV – Diagramme de classes
 
-<img src="../Image/DiagrammeDeClasse">
+<img src="Image/DiagrammeDeClasse.jpg">
  
 V – Nuage de mots
+
+<img src="Image/NuageDeMot.jpg">
 
