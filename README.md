@@ -22,6 +22,7 @@ Cette semaine, j’ai développé les deux premières stories de la première fo
 
 Dans la première stories « Création d’un espace jeu », il n’y a qu’un seul critère d’acceptance : un espace de jeu vide aux dimensions données (2D). Puis dans la deuxième stories « Positionnement du vaisseau dans l’espace jeu », il y a deux critères d’acceptance : Un nouveau vaisseau est créé et le vaisseau est positionné aux coordonnées transmises. On peut ajouter à ces critères d’acceptance des contraintes, en effet, par exemple, on considère que le coin supérieur gauche de l'espace jeu (point en haut à gauche) a pour coordonnées (0,0). 
 IV – Diagramme de classes
+<img src="../Image/DiagrammeDeClasse>
  
 V – Nuage de mots
 
